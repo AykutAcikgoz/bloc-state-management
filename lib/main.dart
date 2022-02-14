@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Gloria – The World\'s Football Community',
         home: Builder(builder: (BuildContext context) {
           final size = MediaQuery.of(context).size;
           return Scaffold(
